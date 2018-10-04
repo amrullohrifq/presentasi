@@ -17,7 +17,7 @@
 - Membuat game
 
 ---
-# Dasar Pemograman Python
+## Dasar Pemograman Python
 
 @ol
 
@@ -25,7 +25,7 @@
 - Flask
 - dll
  
- ---
+---
  
 ![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/Presentasi/master/1_u_Jr6FozmyMCi3pe9ZsoFg.png)
 
