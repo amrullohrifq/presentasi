@@ -55,5 +55,6 @@ Django adalah sebuah web framework yang berbasis python dan menggunakan sistem d
 
 ### Membuat game
 
-
+![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/presentasi/master/sc.PNG)
 ---
+![Video](https://www.youtube.com/watch?v=ygRdKfJ79_Q)
