@@ -8,7 +8,7 @@
 ---
 #### Apa aja yang di pelajari di sana ?
 
-@li
+@-
 
 - Mempelajari Dasar Dari Pemograman Python
 - Mengembangkan Sebuah Web
