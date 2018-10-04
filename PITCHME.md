@@ -2,4 +2,13 @@
 
 ![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/Presentasi/master/cd.jpg)
 ---
+#### Apa sih CoderDojo Indonesia itu ?
 
+
+---
+#### Apa aja yang di pelajari di sana ?
+
+@ol
+- Mempelajari Dasar Dari Pemograman Python
+- Mengembangkan Sebuah Web
+- Membuat game
