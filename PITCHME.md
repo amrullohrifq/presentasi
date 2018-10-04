@@ -17,13 +17,13 @@
 - Membuat game
 
 ---
-### Dasar Pemograman Python
+# Dasar Pemograman Python
 
 @ol
 
- - Django
- - Flask
- - dll
+- Django
+- Flask
+- dll
  
  ---
  
