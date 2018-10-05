@@ -59,7 +59,9 @@ Django adalah sebuah web framework yang berbasis python dan menggunakan sistem d
 ![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/presentasi/master/sc.PNG)
 ---
 
-
-### Thanks for Apresiation ;)
+##### Jalan-Jalan :v
 ![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/presentasi/master/IMG-20180926-WA0023.jpg)
+---
+## Thanks for Apresiation ;)
+
 
