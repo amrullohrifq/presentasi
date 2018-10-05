@@ -59,6 +59,6 @@ Django adalah sebuah web framework yang berbasis python dan menggunakan sistem d
 ---
 @css[title-top-right](Embed Video)
 
-![Gravity](https://www.youtube.com/watch?v=ygRdKfJ79_Q)
+![Video](https://www.youtube.com/watch?v=ygRdKfJ79_Q)
 
 ---
