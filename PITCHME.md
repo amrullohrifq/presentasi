@@ -60,8 +60,4 @@ Django adalah sebuah web framework yang berbasis python dan menggunakan sistem d
 ---
 
 
-![Video](https://www.youtube.com/watch?v=ygRdKfJ79_Q)
-
-![Video](https://player.vimeo.com/video/111525512)
-
----
+### Thanks for Apresiation ;)
