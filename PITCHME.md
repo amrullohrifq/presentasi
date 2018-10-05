@@ -43,12 +43,13 @@ Django adalah sebuah web framework yang berbasis python dan menggunakan sistem d
 
 ### Menghadiri event
 
+![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/presentasi/master/IMG-20180926-WA0022.jpg)
 
 ---
 
 
 ### Membuat animasi pixelart
-
+![Flux Explained](https://raw.githubusercontent.com/amrullohrifq/presentasi/master/mainscreenshot_aseprite.png)
 
 ---
 
@@ -60,5 +61,7 @@ Django adalah sebuah web framework yang berbasis python dan menggunakan sistem d
 
 
 ![Video](https://www.youtube.com/watch?v=ygRdKfJ79_Q)
+
+![Video](https://player.vimeo.com/video/111525512)
 
 ---
